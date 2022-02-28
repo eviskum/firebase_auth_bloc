@@ -9,11 +9,6 @@
 .history
 .svn/
 
-ios/Runner/GoogleService-Info.plist
-android/app/google-services.json
-web/index.html
-lib/api_keys.dart
-
 # IntelliJ related
 *.iml
 *.ipr
