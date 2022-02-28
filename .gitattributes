@@ -1,0 +1,4 @@
+ios/Runner/GoogleService-Info.plist filter=git-crypt diff=git-crypt
+android/app/google-services.json filter=git-crypt diff=git-crypt
+lib/api_keys.dart filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
